@@ -1,0 +1,6 @@
+{
+  "name": "Asisten Mengajar",
+  "description": "Aplikasi pendamping cerdas guru SD Indonesia untuk kurikulum, jadwal, progress materi ajar, dan asisten AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
